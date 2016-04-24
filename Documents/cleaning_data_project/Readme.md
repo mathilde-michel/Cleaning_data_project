@@ -30,3 +30,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The row 2 of the script needs to be modified to correspond with your actual directory and not mine.
 
+This script works only if the dplyr package is already installed.
+
